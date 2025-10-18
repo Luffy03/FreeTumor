@@ -126,8 +126,6 @@ We initially provide a baseline segmentation model and a generative model (train
 
 For validation and testing of segmentation, please check our previous work [Large-Scale-Medical](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream).
 
-Some cases for visual turing test are available at [Google drive](https://drive.google.com/file/d/1AS4EHYRKpJpeizKhokm3bypChXPGZ2Hf/view?usp=sharing).
-
 ## Acknowledgement
 
  **NOTE THAT** we are not the authors of these datasets. Although all these datasets are publicly available for academic research, you need to cite the original works as shown in our paper. 
