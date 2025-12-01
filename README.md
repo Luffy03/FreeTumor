@@ -145,11 +145,12 @@ In addition, some previous papers that contributed to our work are listed for re
   journal={arXiv preprint arXiv:2502.18519},
   year={2025}
 }
-@article{wu2024large,
+@article{voco,
   title={Large-Scale 3D Medical Image Pre-training with Geometric Context Priors},
   author={Wu, Linshan and Zhuang, Jiaxin and Chen, Hao},
-  journal={arXiv preprint arXiv:2410.09890},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 @inproceedings{hu2023label,
   title={Label-free liver tumor segmentation},
