@@ -141,9 +141,9 @@ In addition, some previous papers that contributed to our work are listed for re
 
 ```bibtex
 @article{wu2025freetumor,
-  title={FreeTumor: Large-Scale Generative Tumor Synthesis in Computed Tomography Images for Improving Tumor Recognition},
+  title={Large-Scale Generative Tumor Synthesis in Computed Tomography Images for Improving Tumor Recognition},
   author={Wu, Linshan and Zhuang, Jiaxin and Zhou, Yanning and He, Sunan and Ma, Jiabo and Luo, Luyang and Wang, Xi and Ni, Xuefeng and Zhong, Xiaoling and Wu, Mingxiang and others},
-  journal={arXiv preprint arXiv:2502.18519},
+  journal={Nature Communications},
   year={2025}
 }
 @article{voco,
