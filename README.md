@@ -1,7 +1,6 @@
 <div align="center">
 <h1>[Nature Communications] Large-Scale Generative Tumor Synthesis in Computed Tomography Images for Improving Tumor Recognition</h1>
 
-<a href="https://arxiv.org/abs/2502.18519"><img src='https://img.shields.io/badge/arXiv-Preprint-red' alt='Paper PDF'></a>
 </div>
 
 Paper link: [https://doi.org/10.1038/s41467-025-66071-6](https://doi.org/10.1038/s41467-025-66071-6).
