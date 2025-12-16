@@ -141,10 +141,14 @@ In addition, some previous papers that contributed to our work are listed for re
 
 ```bibtex
 @article{wu2025freetumor,
-  title={Large-Scale Generative Tumor Synthesis in Computed Tomography Images for Improving Tumor Recognition},
+  title={Large-scale generative tumor synthesis in computed tomography images for improving tumor recognition},
   author={Wu, Linshan and Zhuang, Jiaxin and Zhou, Yanning and He, Sunan and Ma, Jiabo and Luo, Luyang and Wang, Xi and Ni, Xuefeng and Zhong, Xiaoling and Wu, Mingxiang and others},
   journal={Nature Communications},
-  year={2025}
+  volume={16},
+  number={1},
+  pages={11053},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 @article{voco,
   title={Large-Scale 3D Medical Image Pre-training with Geometric Context Priors},
